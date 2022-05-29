@@ -1,2 +1,19 @@
-1. hhh
+Bug template 
+
+Bug_id:
+Title: 
+
+Severity: 
+Priority: 
+Environment: 1)
+		       2)
+		       3) 
+Precondition: 
+STR:
+
+
+AR:
+
+ER: 
+Attachments: 
 
